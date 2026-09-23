@@ -1,0 +1,31 @@
+"Washing Clothes Water – One-way ANOVA across coagulants (Sisal Fibre, Banana Peel, Alum)",,,,,,,
+Significant at p < 0.05 means at least one coagulant differs from the others for that parameter.,,,,,,,
+,,,,,,,
+Parameter,F statistic,p-value,Significant (p<0.05)?,,,,
+pH,0.45,0.656,No,,,,
+Temperature (°C),0.78,0.4987,No,,,,
+Electrical conductivity,7.5,0.0233,Yes,,,,
+Turbidity (NTU),1.75,0.2519,No,,,,
+TDS (mg/L),6.14,0.0353,Yes,,,,
+TSS (mg/L),2.82,0.1368,No,,,,
+BOD (mg/L),4.23,0.0714,No,,,,
+COD (mg/L),3.23,0.1116,No,,,,
+Calcium (mg/L),179.39,0,Yes,,,,
+Magnesium (mg/L),2.86,0.1341,No,,,,
+Sodium (mg/L),13.09,0.0065,Yes,,,,
+,,,,,,,
+,,,,,,,
+Tukey HSD post-hoc test (only run where ANOVA was significant),,,,,,,
+Parameter,Group 1,Group 2,Mean diff,p-adj,Lower,Upper,Reject H0?
+Electrical conductivity,Alum,Banana,0.2333,0.021,0.0449,0.4217,True
+Electrical conductivity,Alum,Sisal,0.0767,0.4707,-0.1117,0.2651,False
+Electrical conductivity,Banana,Sisal,-0.1567,0.0956,-0.3451,0.0317,False
+TDS (mg/L),Alum,Banana,93.3333,0.0502,-0.0824,186.7491,False
+TDS (mg/L),Alum,Sisal,1.8867,0.9979,-91.5291,95.3024,False
+TDS (mg/L),Banana,Sisal,-91.4467,0.0542,-184.8624,1.9691,False
+Calcium (mg/L),Alum,Banana,12.1433,0.0,9.9781,14.3086,True
+Calcium (mg/L),Alum,Sisal,10.91,0.0,8.7447,13.0753,True
+Calcium (mg/L),Banana,Sisal,-1.2333,0.2642,-3.3986,0.9319,False
+Sodium (mg/L),Alum,Banana,19.44,0.0069,7.1288,31.7512,True
+Sodium (mg/L),Alum,Sisal,15.4433,0.0198,3.1321,27.7545,True
+Sodium (mg/L),Banana,Sisal,-3.9967,0.6057,-16.3079,8.3145,False

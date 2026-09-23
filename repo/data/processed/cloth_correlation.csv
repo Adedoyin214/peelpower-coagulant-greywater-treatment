@@ -1,0 +1,8 @@
+Washing Clothes Water – Pearson correlation between related parameters,,,
+Computed across the nine treated-sample readings (three coagulants × three runs). The control is not included.,,,
+,,,
+Parameter pair,r,p-value,Interpretation
+TDS (mg/L) vs Electrical conductivity,0.824,0.0063,strong positive (significant)
+BOD (mg/L) vs COD (mg/L),0.063,0.8728,weak positive (not significant)
+TSS (mg/L) vs Turbidity (NTU),0.291,0.4482,weak positive (not significant)
+Calcium (mg/L) vs Magnesium (mg/L),-0.266,0.4897,weak negative (not significant)

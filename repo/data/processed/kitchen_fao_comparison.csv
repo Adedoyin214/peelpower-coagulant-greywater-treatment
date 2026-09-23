@@ -1,0 +1,16 @@
+"Kitchen Washing Water – Comparison with FAO (Ayers & Westcot, 1985) irrigation water guidelines",,,,,,,
+"FAO gives guideline values for salinity (EC, TDS), sodicity (SAR) and pH. It has no guideline for BOD, COD, TSS, turbidity, or individual calcium/magnesium; those are judged against national effluent standards, not shown here.",,,,,,,
+,,,,,,,
+Sample,pH,EC (dS/m),EC rating,TDS (mg/L),TDS rating,SAR,SAR rating
+Control (untreated),9.33,8,Severe,800,Slight to moderate,3.15,Safe
+Sisal Fibre,6.2,5.11,Severe,545,Slight to moderate,2.79,Safe
+Banana Peel,5.88,5.76,Severe,605.1,Slight to moderate,6.23,Safe
+Alum,6.28,4.61,Severe,522.8,Slight to moderate,2.89,Safe
+,,,,,,,
+,,,,,,,
+FAO guideline reference values,,,,,,,
+Degree of restriction,EC (dS/m),TDS (mg/L),SAR,,,,
+,< 0.7,< 450,< 10,,,,
+Slight to moderate,0.7 – 3.0,450 – 2000,10 – 18,,,,
+Severe,> 3.0,> 2000,> 18,,,,
+Normal pH range,6.5 – 8.4,,,,,,

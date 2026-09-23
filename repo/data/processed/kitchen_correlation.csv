@@ -1,0 +1,8 @@
+Kitchen Washing Water – Pearson correlation between related parameters,,,
+Computed across the nine treated-sample readings (three coagulants × three runs). The control is not included.,,,
+,,,
+Parameter pair,r,p-value,Interpretation
+TDS (mg/L) vs Electrical conductivity,0.469,0.2024,moderate positive (not significant)
+BOD (mg/L) vs COD (mg/L),0.137,0.7247,weak positive (not significant)
+TSS (mg/L) vs Turbidity (NTU),0.35,0.3557,weak positive (not significant)
+Calcium (mg/L) vs Magnesium (mg/L),0.164,0.6736,weak positive (not significant)

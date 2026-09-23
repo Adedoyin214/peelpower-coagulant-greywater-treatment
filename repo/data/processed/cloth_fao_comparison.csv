@@ -1,0 +1,16 @@
+"Washing Clothes Water – Comparison with FAO (Ayers & Westcot, 1985) irrigation water guidelines",,,,,,,
+"FAO gives guideline values for salinity (EC, TDS), sodicity (SAR) and pH. It has no guideline for BOD, COD, TSS, turbidity, or individual calcium/magnesium; those are judged against national effluent standards, not shown here.",,,,,,,
+,,,,,,,
+Sample,pH,EC (dS/m),EC rating,TDS (mg/L),TDS rating,SAR,SAR rating
+Control (untreated),8,6,Severe,807,Slight to moderate,2.28,Safe
+Sisal Fibre,6.17,4.31,Severe,688,Slight to moderate,3.46,Safe
+Banana Peel,6.03,4.47,Severe,779.4,Slight to moderate,3.1,Safe
+Alum,6.54,4.24,Severe,686.1,Slight to moderate,2.85,Safe
+,,,,,,,
+,,,,,,,
+FAO guideline reference values,,,,,,,
+Degree of restriction,EC (dS/m),TDS (mg/L),SAR,,,,
+,< 0.7,< 450,< 10,,,,
+Slight to moderate,0.7 – 3.0,450 – 2000,10 – 18,,,,
+Severe,> 3.0,> 2000,> 18,,,,
+Normal pH range,6.5 – 8.4,,,,,,
